@@ -1,0 +1,24 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Blockchain at Berkeley's Decal for Developers Course Website"
+theme = "kube"
+[Params]
+  author = "Blockchain at Berkeley Education Team" 
+  facebook = "https://www.facebook.com/berkeleybitcoin/"
+  youtube = "https://www.youtube.com/channel/UC5sgoRfoSp3jeX4DEqKLwKg"
+  twitter = "https://twitter.com/CalBlockchain"
+  slack = "https://www.berkeleyblockchain.slack.com/"
+  babsite = "https://blockchain.berkeley.edu/"
+
+[[menu.main]]
+    name = "Logistics & Policies"
+    weight = -100
+    url = "/policies/"
+[[menu.main]]
+    name = "Course Overview"
+    weight = -100
+    url = "/overview/"
+[[menu.main]]
+    name = "Piazza"
+    weight = -100
+    url = "https://piazza.com/class/jd3dzh5iwo9m9"

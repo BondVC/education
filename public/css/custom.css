@@ -1,0 +1,22 @@
+.page-kube {
+	width:80%;
+	margin-left:10%;
+	margin-right:auto;
+}
+
+.page-kube a {
+	text-decoration:none;
+}
+
+.page-kube th {
+	text-align:center;
+}
+
+.page-kube td {
+	text-align:center;
+}
+
+#top-brand a {
+	color:black;
+	font-weight:bold;
+}
