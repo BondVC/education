@@ -1,4 +1,4 @@
-### Welcome to Blockchain at Berkeley Developer's Decal site repository
+# Welcome to Blockchain at Berkeley Developer's Decal site repository
 
 ## If you want to make changes to this repository please follow these steps.
 
@@ -11,7 +11,7 @@ Once you've made the appropriate changes run 'hugo' to build the project. Then a
 
 ## How to properly make common edits
 
-#Adding to the homepage's table
+### Adding to the homepage's table
 
 1. Copy the table in /content/_index.md
 2. Navigate to https://www.tablesgenerator.com/markdown_tables
