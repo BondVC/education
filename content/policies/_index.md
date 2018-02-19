@@ -1,7 +1,8 @@
 ---
-title: "Policies"
+title: "Course Policies & Logistics"
 date: 2018-02-14T13:37:36-08:00
-draft: true
+draft: false
+description: "Blockchain at Berkeley's Blockchain for Developers course at the University of California, Berkeley. Resources for learning about Ethereum application development, Solidity programming, smart contract security, and all other things blockchain development."
 ---
 
 Attendance
