@@ -1,6 +1,7 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Blockchain at Berkeley's Decal for Developers Course Website"
+title = "Blockchain at Berkeley's Education for Developers"
+description = "Resources for learning about ethereum DApp development, solidity programming, smart contract security, and all other things blockchain development." 
 theme = "kube"
 [Params]
   author = "Blockchain at Berkeley Education Team" 
