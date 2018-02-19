@@ -2,7 +2,7 @@
 title: "Blockchain For Developers Course Materials"
 date: 2018-02-14T12:44:54-08:00
 draft: false
-description: "Blockchain at Berkeley's Blockchain for Developers course at the University of California, Berkeley. Resources for learning about Ethereum application development, Solidity programming, smart contract security, and all other things blockchain development."
+description: "Education for blockchain developers. Learn about Ethereum application development, Solidity programming, smart contract security, and more."
 ---
 
 | Week | Lab | Lecture | Assignment | Readings |

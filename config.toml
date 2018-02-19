@@ -3,7 +3,7 @@ baseURL = "/"
 languageCode = "en-us"
 theme = "kube"
 [Params]
-  description = "Resources for learning about Ethereum application development, Solidity programming, smart contract security, and all other things blockchain development." 
+  description = "Education for blockchain developers. Learn about Ethereum application development, Solidity programming, smart contract security, and more." 
   author = "Blockchain at Berkeley Education Team" 
   facebook = "https://www.facebook.com/berkeleybitcoin/"
   youtube = "https://www.youtube.com/channel/UC5sgoRfoSp3jeX4DEqKLwKg"
