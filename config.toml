@@ -1,10 +1,13 @@
-title = "Blockchain at Berkeley's Education for Developers"
+title = "Blockchain Protocols and Smart Contracts - Spring 2018"
 baseURL = "/"
 languageCode = "en-us"
 theme = "kube"
 [Params]
-  description = "Education for blockchain developers. Learn about Ethereum application development, Solidity programming, smart contract security, and more." 
-  author = "Blockchain at Berkeley Education Team" 
+  description = '''A student run course at UC Berkeley. Learn about smart contract
+  programming, testing, security and the underlying details of Bitcoin and
+  Ethereum clients. Taught by Akash Khosla and Nicolas Zoghb as part of
+  Blockchain at Berkeley.'''
+  author = "Akash Khosla"
   facebook = "https://www.facebook.com/berkeleybitcoin/"
   youtube = "https://www.youtube.com/channel/UC5sgoRfoSp3jeX4DEqKLwKg"
   twitter = "https://twitter.com/CalBlockchain"

@@ -2,7 +2,7 @@
 title: "Blockchain For Developers Course Materials"
 date: 2018-02-14T12:44:54-08:00
 draft: false
-description: "Education for blockchain developers. Learn about Ethereum application development, Solidity programming, smart contract security, and more."
+description: "A student run course at UC Berkeley. Learn about smart contract programming, testing, security and the underlying details of Bitcoin and Ethereum clients. Taught by AkashKhosla and Nicolas Zoghb as part of Blockchain at Berkeley."
 ---
 
 | Week | Lecture | Lab | Assignment | Readings |
